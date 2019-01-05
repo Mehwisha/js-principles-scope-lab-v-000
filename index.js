@@ -3,3 +3,4 @@ var customerName = 'bob'
 function upperCaseCustomerName() {
   customerName;
 }
+upperCaseCustomerName(customerName)
